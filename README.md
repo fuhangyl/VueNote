@@ -4,4 +4,9 @@
 
 2.[自定义v-model](https://github.com/fuhangyl/VueNote/issues/2)
 
-2.[Vue组件间的通讯](https://github.com/fuhangyl/VueNote/issues/3)
+3.[Vue组件间的通讯](https://github.com/fuhangyl/VueNote/issues/3)
+
+4.[Vuex状态管理模式的使用与理解](https://github.com/fuhangyl/VueNote/issues/4)
+
+
+
