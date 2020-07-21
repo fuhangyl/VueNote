@@ -8,5 +8,5 @@
 
 4.[Vuex状态管理模式的使用与理解](https://github.com/fuhangyl/VueNote/issues/4)
 
-
+5.[Vue使用小技巧](https://github.com/fuhangyl/VueNote/issues/5)
 
