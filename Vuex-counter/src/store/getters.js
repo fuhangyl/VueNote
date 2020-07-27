@@ -1,1 +1,0 @@
-export const count = state => '这是一个计数器数据' + state.count
