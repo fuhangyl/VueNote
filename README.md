@@ -6,7 +6,7 @@
 
 3.[Vue组件间的通讯](https://github.com/fuhangyl/VueNote/issues/3)
 
-4.[Vuex状态管理模式的使用与理解](https://github.com/fuhangyl/VueNote/issues/4)
+4.[通过hookEvent监听组件的生命周期](https://github.com/fuhangyl/VueNote/issues/4)
 
 5.[Vue使用小技巧](https://github.com/fuhangyl/VueNote/issues/5)
 
